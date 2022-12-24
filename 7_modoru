@@ -1,0 +1,12 @@
+u 元に戻す
+ctrol + r 次へ進む
+
+＊＊＊＊
+int main()
+{
+  int a;
+  a = 10;
+  printf("Hello Worl");
+  printf("Hello Worl");
+
+}

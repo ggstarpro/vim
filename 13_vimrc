@@ -1,0 +1,12 @@
+vimの設定について
+自分用にカスタマイズ
+
+ls -a で.vimrcが出てくるなければ作成してください
+~/.vimrcとなります。 
+
+set nu # 行番号表示
+set cursorline # カーソルライン表示
+set showmatch # 対応する括弧をハイライト
+syntax enable #シンタックスハイライト
+set tabstop=2 # タブのスペース数(shiftwidthと合わせる)
+set shiftwidth=2 # 行頭でのタブのスペース数

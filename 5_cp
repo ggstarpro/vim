@@ -1,0 +1,20 @@
+yy コピー
+p カーソル下行に貼り付け
+shift+p カーソル上行に貼り付け
+y3y 3行コピー
+y6l 6文字コピー
+v ビジュアルモード v選択後y 選択範囲のコピー
+
+
+
+*****
+public function test()
+{
+  int a;
+  a = 10;
+  printf("Hello World\n");
+  return 0;
+
+}
+
+p カーソル下行に貼り付け

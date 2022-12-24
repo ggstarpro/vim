@@ -1,0 +1,12 @@
+検索は/[文字]
+n   次へ
+shft+n 前へ検索
+# カーソル状の単語を検索
+
+****
+public function test(a, b)
+{
+  a = a + b;
+
+  printf("test" . a); 
+}

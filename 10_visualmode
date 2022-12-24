@@ -1,0 +1,14 @@
+コマンドモードでv を押す
+v選択後> 選択範囲を右にインデント
+v選択後d 選択範囲削除
+
+ctrl+v 矩形選択
+ctrl+v 後 shif+i 選択範囲の先頭に文字入力後esc
+ctrl+v 後 shift+i 選択後の先頭に//でコメントアウトができ、xで取り除いたりできる。
+******
+public function test()
+{
+  a = "aa";
+  print(a);
+
+}

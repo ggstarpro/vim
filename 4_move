@@ -1,0 +1,24 @@
+ k
+h  i
+ j
+
+2j: 2行下
+4i: 4行文字右
+w: １単語右
+$: 行末
+0: 先頭（ぜろ)  
+gg: ファイル先頭
+shift*g: ファイル最後
+ctrl+f 次のページ
+ctrl+b 前のページ
+:行数 行番号へ
+:set nu 行番号表示
+*********
+rearawrawraw
+fasfraewrr
+
+fasefraewr
+aewrfaewrrwrfdfcewar
+faewraweraew
+
+test plactice
